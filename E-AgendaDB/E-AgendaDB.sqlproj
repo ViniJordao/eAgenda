@@ -64,6 +64,7 @@
   <ItemGroup>
     <Build Include="dbo\Tables\TBTarefas.sql" />
     <Build Include="dbo\Tables\TBAgenda.sql" />
+    <Build Include="dbo\Tables\TBCompromisso.sql" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\eAgenda.Console.App\eAgenda.ConsoleApp.csproj">
